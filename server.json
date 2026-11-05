@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.throttler300/work-access-platform",
+  "title": "work-access-tools",
+  "description": "Verified product categorization, npm/PyPI package checks, and locks. Free tier; pay after.",
+  "repository": {
+    "url": "https://github.com/throttler300/work-access-tools",
+    "source": "github"
+  },
+  "version": "2.1.0",
+  "websiteUrl": "https://work-access-platform.bfurrow26.workers.dev",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://work-access-platform.bfurrow26.workers.dev/mcp/c/official-registry"
+    }
+  ]
+}
